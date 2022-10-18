@@ -25,7 +25,7 @@
 
 <br>
 
-<b>My Github Stats</b> :chart_with_downwards_trend: :chart: <br>
+<b>My Github Stats</b> :chart_with_downwards_trend: <br>
  
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=frknztrkk&show_icons=true&theme=blue-green)<br>
 
