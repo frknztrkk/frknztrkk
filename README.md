@@ -28,7 +28,8 @@
 <b>My Github Stats</b> :chart_with_downwards_trend: <br>
  
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=frknztrkk&show_icons=true&theme=blue-green)<br>
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=frknztrkk&show_icons=true)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=frknztrkk&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <b>Random joke for you</b> :laughing:
