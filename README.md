@@ -28,7 +28,12 @@
 <b>My Github Stats</b> :chart_with_downwards_trend: <br>
  
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=frknztrkk&show_icons=true&theme=blue-green)<br>
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=frknztrkk&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+
+<b>My Github Streak</b>	:fire: <br>
+
+[![frknztrkk's github streak](https://github-readme-streak-stats.herokuapp.com/?user=frknztrkk&theme=blue-green)]
+
+
 
 
 
