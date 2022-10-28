@@ -1,4 +1,4 @@
-<b>Hi I'm Furkan :wave:</b><br><br>
+<h2><b>Hi I'm Furkan :wave:</b></h2><br><br>
 
 
 - 🔭 I’m currently learning programming
